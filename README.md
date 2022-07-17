@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Diego.
-- 👀 Interested in learning this puter' shit.
-- 🌱 I’m currently learning CSS.
-
+Hey, I'm Diego, still learning about HTML.
